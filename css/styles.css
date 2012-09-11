@@ -1165,3 +1165,8 @@ a.demo {
   padding: 3px;
   font-weight: bold;
 }
+
+.design-img {
+  position: relative;
+  left: 7em;
+}
